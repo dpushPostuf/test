@@ -1,0 +1,11 @@
+{
+    "name": "denis/test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Pushkarev Denis",
+            "email": "Pushkarev.D@postuf.com"
+        }
+    ],
+    "require": {}
+}
